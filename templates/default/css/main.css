@@ -1,0 +1,33 @@
+body{
+    color:red;
+    font-family: GothamRounded;
+}
+
+/* hebrew */
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela Round Regular'), local('VarelaRound-Regular'), url(https://fonts.gstatic.com/s/varelaround/v9/w8gdH283Tvk__Lua32TysjIfpcuPLdshZhVB.woff2) format('woff2');
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela Round Regular'), local('VarelaRound-Regular'), url(https://fonts.gstatic.com/s/varelaround/v9/w8gdH283Tvk__Lua32TysjIfqMuPLdshZhVB.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela Round Regular'), local('VarelaRound-Regular'), url(https://fonts.gstatic.com/s/varelaround/v9/w8gdH283Tvk__Lua32TysjIfqcuPLdshZhVB.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela Round Regular'), local('VarelaRound-Regular'), url(https://fonts.gstatic.com/s/varelaround/v9/w8gdH283Tvk__Lua32TysjIfp8uPLdshZg.woff2) format('woff2');
+}
